@@ -9,3 +9,6 @@ cd myProject
 yarn install 
 yarn start
 ```
+
+### 项目模板
+https://github.com/z-9527/sty-react-template
