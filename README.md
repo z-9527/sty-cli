@@ -12,3 +12,16 @@ yarn start
 
 ### 项目模板
 https://github.com/z-9527/sty-react-template
+
+
+### 使用
+```shell
+Usage: sty-cli <command> [<args>]
+
+Options:
+  -V, --version       output the version number
+  -h, --help          output usage information
+
+Commands:
+  init <projectName>  初始化项目
+```
