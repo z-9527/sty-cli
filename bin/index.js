@@ -30,6 +30,9 @@ progrom
         } else {
           spinner.succeed();
           console.log(chalk.green('\n 下载模板成功'))
+          console.log(chalk.blue('\ncd ' + projectName))
+          console.log(chalk.blue('yarn install'))
+          console.log(chalk.blue('yarn start'))
         }
       })
     }
