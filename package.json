@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/z-9527/sty-cli.git",
   "author": "z-9527 <137596665@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "sty-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "ora": "^4.0.2",
+    "shelljs": "^0.8.3"
+  }
 }
