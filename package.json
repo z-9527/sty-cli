@@ -1,0 +1,8 @@
+{
+  "name": "sty-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/z-9527/sty-cli.git",
+  "author": "z-9527 <137596665@qq.com>",
+  "license": "MIT"
+}
